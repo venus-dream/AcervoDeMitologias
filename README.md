@@ -14,7 +14,3 @@ O objetivo é oferecer um espaço para pesquisa e aprendizado sobre mitos, lenda
 * **CSS:** Estilização da página.
 * **JavaScript:** Lógica para a pesquisa e exibição dos resultados.
 
-## Como Utilizar
-1. **Clone o repositório:**
-   ```bash
-   git clone [URL inválido removido]
